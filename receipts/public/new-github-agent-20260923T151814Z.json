@@ -1,0 +1,26 @@
+{
+  "schema": "flop_new_github_agent_creation_v1",
+  "wave_id": "20260923T151814Z",
+  "created_at": "2026-09-23T15:21:28.859674+00:00",
+  "agent": "PonyoRouter",
+  "slug": "ponyorouter",
+  "did": "did:key:z6MkmU6oUim6eHqwge1xB9a1rd1R9gQbayiHT58vPtJ67CRe",
+  "relay_profile": "account-086",
+  "github_repo": "https://github.com/frondcontext/flop-ponyorouter",
+  "github_login": "frondcontext",
+  "repo_created_now": true,
+  "technocore_did_note": {
+    "namespace": "did-cd",
+    "key": "36a104b3286043",
+    "status": 200,
+    "value_sha256": "b523a65f547184083ba168f394ff1cf71158fa5d434e40816ef673a6a9ffd122"
+  },
+  "owned_room_receipt": "/opt/data/work/flop/agents/ponyorouter/receipts/public/owned-room-20260923T151814Z.json",
+  "external_activation": null,
+  "actions_not_performed": [
+    "no X/Twitter binding",
+    "no wallet transaction",
+    "no value movement"
+  ],
+  "secret_material_recorded": false
+}
